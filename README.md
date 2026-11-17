@@ -1,9 +1,9 @@
-<h1 align="center">Sohaib</h1>
-<p align="center"><b>Data Science Student | Machine Learning, Data Systems and Applied Projects</b></p>
+<h1 align="center">SOHAIB AHMED</h1>
+<h3 align="center">Data Science Student | Machine Learning, Data Systems and Applied Projects</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sohaib-ahmed-b4124a382"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/sohaib20355-ops"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/sohaib-ahmed-b4124a382"><img src="https://img.shields.io/badge/LinkedIn-Sohaib_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sohaib20355-ops"><img src="https://img.shields.io/badge/GitHub-sohaib20355--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -12,6 +12,50 @@
 <p align="justify">
 I am a Data Science student with project experience across machine learning, data mining, data visualization, information security and embedded systems. My final year project is a neuro-symbolic tutoring system that models student knowledge with a graph neural network and recommends the next concept to study. I enjoy turning a problem into a working, tested system, from the data and model through to the interface.
 </p>
+
+## Selected Projects
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>NeuroTutor</b><br><sub>Final year project (private)</sub></td>
+      <td>Graph neural network knowledge tracing with a PPO agent and a rule-based engine that recommends the next Python concept to a learner.</td>
+      <td>PyTorch, FastAPI, React</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sohaib20355-ops/information-security-project"><b>Web Vulnerability Scanner</b></a><br><sub>Information Security</sub></td>
+      <td>Streamlit application that crawls a website, probes its forms and stores scan history.</td>
+      <td>aiohttp, Streamlit, SQLite</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sohaib20355-ops/movie-success-dashboard"><b>Movie Success Dashboard</b></a><br><sub>Data Visualization</sub></td>
+      <td>Interactive dashboard over a 100,000-record movie dataset.</td>
+      <td>Dash, Plotly, pandas</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sohaib20355-ops/data-mining-market-basket"><b>Market Basket Analysis</b></a><br><sub>Data Mining</sub></td>
+      <td>Association rule mining with Apriori on retail transaction data.</td>
+      <td>mlxtend, Streamlit</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sohaib20355-ops/risc-processor-project"><b>RISC Processor</b></a><br><sub>Computer Organization and Assembly Language</sub></td>
+      <td>A RISC processor described in Verilog, developed over four design iterations.</td>
+      <td>Verilog, Icarus Verilog</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sohaib20355-ops/water-quality-monitoring-classification"><b>Water Quality Monitor</b></a><br><sub>Data Science and IoT</sub></td>
+      <td>ESP32 sensor system streaming pH, TDS, turbidity and temperature readings to ThingSpeak.</td>
+      <td>ESP32, Arduino</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Technical Skills
 **Languages**
@@ -39,28 +83,13 @@ I am a Data Science student with project experience across machine learning, dat
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-## Selected Projects
-| Project | Description | Technologies |
-|---|---|---|
-| **NeuroTutor** (final year project, private) | Graph neural network knowledge tracing with a PPO agent and rule-based engine that recommends the next Python concept to a learner | PyTorch, FastAPI, React |
-| [**Web Vulnerability Scanner**](https://github.com/sohaib20355-ops/information-security-project) | Streamlit application that crawls a website, probes its forms and stores scan history | aiohttp, Streamlit, SQLite |
-| [**Movie Success Dashboard**](https://github.com/sohaib20355-ops/movie-success-dashboard) | Interactive dashboard over a 100,000-record movie dataset | Dash, Plotly, pandas |
-| [**Market Basket Analysis**](https://github.com/sohaib20355-ops/data-mining-market-basket) | Association rule mining with Apriori on retail transaction data | mlxtend, Streamlit |
-| [**RISC Processor**](https://github.com/sohaib20355-ops/risc-processor-project) | A RISC processor described in Verilog, developed over four design iterations | Verilog, Icarus Verilog |
-| [**Water Quality Monitor**](https://github.com/sohaib20355-ops/water-quality-monitoring-classification) | ESP32 sensor system streaming pH, TDS, turbidity and temperature readings to ThingSpeak | ESP32, Arduino |
-
 ## Current Focus
 - Improving the tutoring system's recommendation policy and its evaluation against a baseline
 - Building further data mining and visualization projects
 - Documenting and refining existing repositories
 
-## GitHub Statistics
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sohaib20355-ops&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib20355-ops&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
-</p>
-
 ## Contact
-<a href="https://www.linkedin.com/in/sohaib-ahmed-b4124a382"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" height="18" alt="LinkedIn logo"></a> **LinkedIn:** [linkedin.com/in/sohaib-ahmed-b4124a382](https://www.linkedin.com/in/sohaib-ahmed-b4124a382)
-
-<a href="https://github.com/sohaib20355-ops"><img src="https://cdn.simpleicons.org/github/808080" width="18" height="18" alt="GitHub logo"></a> **GitHub:** [github.com/sohaib20355-ops](https://github.com/sohaib20355-ops)
+<p>
+  <a href="https://www.linkedin.com/in/sohaib-ahmed-b4124a382"><img src="https://img.shields.io/badge/LinkedIn-sohaib--ahmed--b4124a382-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sohaib20355-ops"><img src="https://img.shields.io/badge/GitHub-sohaib20355--ops-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
